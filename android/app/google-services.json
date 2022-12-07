@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766863353923",
+    "project_id": "yellow-time",
+    "storage_bucket": "yellow-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766863353923:android:1e428ffcfd4df4aa294cf6",
+        "android_client_info": {
+          "package_name": "com.example.location_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766863353923-3qb73hknm0e6mg88io5go1f5erp3m32n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZuUVFeq-Ca9XtcgkZqxScYXe3zmA7RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766863353923-3qb73hknm0e6mg88io5go1f5erp3m32n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
